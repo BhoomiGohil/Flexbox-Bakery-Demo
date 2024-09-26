@@ -20,16 +20,16 @@ To view the website locally, follow these steps:
 
 1. **Clone the repository or download the files.**
 
-   ```bash
-   git clone https://github.com/BhoomiGohil/html-css-flexbox-bakery.git
-   cd html-css-flexbox-bakery
-   ```
+```bash
+git clone https://github.com/BhoomiGohil/Flexbox-BakeryUI.git
+cd Flexbox-BakeryUI
+```
 
 2. **Open the `index.html` file in your web browser.**
 
-   ```bash
-   open index.html
-   ```
+```bash
+open index.html
+```
 
 OR
 
