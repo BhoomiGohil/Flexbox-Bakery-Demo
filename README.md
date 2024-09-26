@@ -21,8 +21,8 @@ To view the website locally, follow these steps:
 1. **Clone the repository or download the files.**
 
 ```bash
-git clone https://github.com/BhoomiGohil/Flexbox-BakeryUI.git
-cd Flexbox-BakeryUI
+git clone https://github.com/BhoomiGohil/Flexbox-Bakery-Demo.git
+cd Flexbox-Bakery-Demo
 ```
 
 2. **Open the `index.html` file in your web browser.**
