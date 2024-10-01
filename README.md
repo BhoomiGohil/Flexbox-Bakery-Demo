@@ -36,9 +36,10 @@ OR
 Using Live Server in Visual Studio Code:
 
 1. **Install the Live Server extension:**
-   Open Visual Studio Code
-   Go to the Extensions view by clicking on the square icon on the left sidebar or pressing Ctrl+Shift+X
-   Search for "Live Server" and click Install
+
+Open Visual Studio Code
+Go to the Extensions view by clicking on the square icon on the left sidebar or pressing Ctrl+Shift+X
+Search for "Live Server" and click Install
 
 2. Once installed, right-click on index.html and select "Open with Live Server".
 
